@@ -239,7 +239,6 @@ sql_9.to_csv("sql_9.csv")
 
 
 ####################################################################################
-#Extra credit
 #To find number of crimes of particular type in each neighborhood, raw_input from user
 
 print ("Please choose a offense type from list to calculate its frequency in each neighborhood: \n")
